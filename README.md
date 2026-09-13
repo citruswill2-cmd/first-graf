@@ -1,2 +1,5 @@
-# first-graf
-FIRST GRAF — first file for people starting a business, plus a cream rack that pins other live websites. REDLINE first-draft, client-owned static HTML.
+# FIRST GRAF
+
+REDLINE first-draft. One static `index.html`. No build step.
+
+Drop the file at the root of a Vercel project, or connect this repo in Vercel Git settings.
